@@ -4,7 +4,11 @@ made changes
 POST www.google.com
 ```
 
+<<<<<<< HEAD
 `note`
+=======
+`Note no.1`
+>>>>>>> test-branch
 
 <a href="https://www.postman.com/"><img src="https://voyager.postman.com/illustration/toolbox-postman.svg" /></a><br />
 _Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster._
