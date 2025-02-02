@@ -22,7 +22,7 @@ POST www.someapiexample.com
 |   `FirstName` |   first name  |   `String`    |   Yes         |
 |   `Phone`     |   phone       |   `String`    |   Yes         |
 
-for more help, [read this][www.google.com]
+for more help, [read this](www.google.com)
 
 **the end**
 
