@@ -25,5 +25,7 @@ POST www.someapiexample.com
 for more help, [read this](www.google.com)
 
 **the end**
+
 *italic end*
+
 ***bold italic***
